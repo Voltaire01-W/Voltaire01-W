@@ -2,6 +2,28 @@
 
 ![Connor's github stats](https://github-readme-stats.vercel.app/api?username=Voltaire01-W)
 
+Current Projects:
+- Name: Instagram Clone
+- Description: A visually aesthetic clone of Instagram.com with similar functionality.
+- Tech Stack: ReactJS, NodeJS, TailwindCSS, Firebase Firestore
+
+Technologies I have learned and consistently improve:
+- JavaScript
+- ReactJS
+- Node.js
+- Python3
+- HTML/CSS/SCSS
+- Styled Components
+- Material-UI
+
+I am very excited to learn:
+- TypeScript
+- React Native
+- Express
+
+Please feel free to contact me at:
+ds.connorclark@gmail.com   📧
+
 <!--
 **Voltaire01-W/Voltaire01-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
