@@ -7,6 +7,8 @@ Current Projects:
 - Description: A visually aesthetic clone of Instagram.com with similar functionality.
 - Tech Stack: ReactJS, NodeJS, TailwindCSS, Firebase Firestore
 
+###
+
 - Name: Social Media Application
 - Description: My take on a Social Network, completely designed by me using wireframing and mockups with Figma.
 - Tech Stack: ReactJS, Redux, Node.js, Express.js, Firebase, Material-UI, and Figma (for wireframe and mockups).
