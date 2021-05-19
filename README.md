@@ -16,6 +16,7 @@ Current Projects:
 Technologies I have learned and consistently improve:
 - JavaScript
 - ReactJS
+- Redux
 - Node.js
 - Python3
 - HTML/CSS/SCSS
