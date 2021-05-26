@@ -16,6 +16,7 @@ Current Projects:
 Technologies I have learned and consistently improve:
 - JavaScript
 - ReactJS
+- React Native
 - Redux
 - Node.js
 - Python3
@@ -26,7 +27,6 @@ Technologies I have learned and consistently improve:
 
 I am very excited to learn:
 - TypeScript
-- React Native
 
 Please feel free to contact me at:
 ds.connorclark@gmail.com   📧
