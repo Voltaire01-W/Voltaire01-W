@@ -3,15 +3,22 @@
 ![Connor's github stats](https://github-readme-stats.vercel.app/api?username=Voltaire01-W)
 
 Current Projects:
-- Name: Instagram Clone
-- Description: A visually aesthetic clone of Instagram.com with similar functionality.
-- Tech Stack: ReactJS, NodeJS, TailwindCSS, Firebase Firestore
-
-###
-
 - Name: Social Media Application
 - Description: My take on a Social Network, completely designed by me using wireframing and mockups with Figma.
 - Tech Stack: ReactJS, Redux, Node.js, Express.js, Firebase, Material-UI, and Figma (for wireframe and mockups).
+
+###
+
+React Native Projects:
+- Name: Firebird Social
+- Description: This is the mobile rendition of the social media application project I have created in React.
+- Tech Stack: ReactJS, React Native, Node.js, Express.js.
+
+###
+
+- Name: Delivery
+- Description: A Food delivery application, similar to DoorDash or Grubhub applications. Mostly completed, some minor changes will be made to this project.
+- Tech Stack: ReactJS, React Native, Node.js, Google Maps API.
 
 Technologies I have learned and consistently improve:
 - JavaScript
