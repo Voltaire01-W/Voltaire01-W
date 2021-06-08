@@ -3,11 +3,6 @@
 ![Connor's github stats](https://github-readme-stats.vercel.app/api?username=Voltaire01-W)
 
 Current Projects:
-- Name: Social Media Application
-- Description: My take on a Social Network, completely designed by me using wireframing and mockups with Figma.
-- Tech Stack: ReactJS, Redux, Node.js, Express.js, Firebase, Material-UI, and Figma (for wireframe and mockups).
-
-###
 
 React Native Projects:
 - Name: Firebird Social
