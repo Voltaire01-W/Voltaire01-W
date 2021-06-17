@@ -4,16 +4,16 @@
 
 Current Projects:
 
+- Name: Bug Tracker
+- Description: Bug Tracking application used for development and tracking bugs during development.
+- Tech Stack: ReactJS, Node.js.
+
 React Native Projects:
 - Name: Firebird Social
 - Description: This is the mobile rendition of the social media application project I have created in React.
 - Tech Stack: ReactJS, React Native, Node.js, Express.js.
 
 ###
-
-- Name: Delivery
-- Description: A Food delivery application, similar to DoorDash or Grubhub applications. Mostly completed, some minor changes will be made to this project.
-- Tech Stack: ReactJS, React Native, Node.js, Google Maps API.
 
 Technologies I have learned and consistently improve:
 - JavaScript
