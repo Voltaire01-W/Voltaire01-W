@@ -6,7 +6,7 @@ Current Projects:
 
 - Name: Bug Tracker
 - Description: Bug Tracking application used for development and tracking bugs during development.
-- Tech Stack: ReactJS, Node.js.
+- Tech Stack: ReactJS, C#.
 
 React Native Projects:
 - Name: Firebird Social
